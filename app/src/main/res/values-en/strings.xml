@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculate Notes</string>
+    <string name="bien">Welcome</string>
+    <string name="cald">Calculation of Notes</string>
+    <string name="defd">final</string>
+    <string name="emp">Start</string>
+    <string name="in">To continue click the start button</string>
+    <string name="msg">In this application you can calculate the average of your notes, so that you have knowledge of how you go in your subjects</string>
+    <string name="nd">Note 1:</string>
+    <string name="n2d">Note 2:</string>
+    <string name="n3d">Note 3:</string>
+    <string name="btnCalculard">Calculate</string>
+    <string name="btnInformaciond">Information</string>
+    <string name="mat">Subjects</string>
+    <string name="mat1">Mobile Development</string>
+    <string name="n1p">Note1:</string>
+    <string name="n1s">Note1:</string>
+    <string name="n1w">Note1:</string>
+    <string name="n2p">Note 2:</string>
+    <string name="n2s">Note 2:</string>
+    <string name="n2w">Note 2:</string>
+    <string name="n3p">Note 3:</string>
+    <string name="n3s">Note 3:</string>
+    <string name="n3w">Note 3:</string>
+    <string name="defp">final</string>
+    <string name="defs">final</string>
+    <string name="defw">final</string>
+    <string name="mat2">Software Engineering</string>
+    <string name="mat4">Web Technology and Systems</string>
+    <string name="mat3">Design patterns</string>
+    <string name="btnpt">Total Average</string>
+    <string name="texto1">A subject is approveed with a final grade greater than or equal to 3.0 and can be enable in the following cases:</string>
+    <string name="tit">To Take Into Account</string>
+    <string name="texto2">- If the final grade is greater than or equal to 2.0 and less than 3.0</string>
+    <string name="texto3">- If the final grade (Note 3) is less than 2.0 and the individual grade of the final grade is greater than or equal to 2.0</string>
+    <string name="texto4">Remember that if your final grade (Note 3) is less than 2.0, this will be your Definitive.</string>
+    <string name="texto_autor">Author: Ana Gabriela Munoz Cabrera</string>
+    <string name="btnacerca">About</string>
+    <string name="boton_volver">Return</string>
+    <string name="texto_campos">Fields are empty</string>
+    <string name="texto_invalido">"Notes should not exceed 5.0 "</string>
+    <string name="sscreen">Application to calculate student grades</string>
+    <string name="ponderado">Your Total Average Is:</string>
+</resources>
